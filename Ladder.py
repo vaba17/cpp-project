@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from math import pi, ceil,sin
 a = input().split()
 a[0]=int(a[0])
