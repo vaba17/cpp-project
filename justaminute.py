@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 Min =0
 Sec =0
 for i in range(int(input())):
